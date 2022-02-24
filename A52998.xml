@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the Queen by T.N.</title>
+            <author>T. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52998</idno>
+            <idno type="STC">Wing N78</idno>
+            <idno type="STC">ESTC R31062</idno>
+            <idno type="EEBO-CITATION">11770192</idno>
+            <idno type="OCLC">ocm 11770192</idno>
+            <idno type="VID">48842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the Queen by T.N.</title>
+                  <author>T. N.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48842:1"/>
+            <pb facs="tcp:48842:1" rendition="simple:additions"/>
+            <p>A POEM ON THE QUEEN.</p>
+            <p>By <hi>T. N.</hi> Gent.</p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:48842:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:48842:2"/>
+            <head>A POEM ON THE QUEEN.</head>
+            <lg>
+               <head>I.</head>
+               <l>SAY, <hi>Happy Man,</hi> Inhabiter of Earth,</l>
+               <l>On that Great Day MARIA had her Birth,</l>
+               <l>Did not the Balmy Aſpect of the Morn</l>
+               <l>Portend the Budding Glory of our Realm?</l>
+               <l>Did not her Infant Rays the World adorn,</l>
+               <l>With Luminous Hopes of Golden Days, now paſt,</l>
+               <l>Thoſe Days that came ſo ſoon, that fled ſo faſt?</l>
+               <l>Thoſe Days that Reaſon wiſhes yet unborn;</l>
+               <l>Thoſe Days that MARY ſteer'd the yielding Helm.</l>
+               <pb n="2" facs="tcp:48842:3"/>
+               <l> Say, <hi>Wretched Man,</hi> (if Sighs obſtruct not Words)</l>
+               <l>Did not Her Early Virtues ſhew,</l>
+               <l>'Twas an Impoſſibility,</l>
+               <l>So well-endow'd a Soul as She,</l>
+               <l>Should to Her Heaven flee,</l>
+               <l>Before the World She bleſt</l>
+               <l>Knew of th' ineſtimable Worth it was poſſeſt?</l>
+               <l>She was as Pure (O Heav'n! and muſt She too</l>
+               <l>Obey your Exhalations) like the Pearly Dew.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>She did—</l>
+               <l>We knew in part,</l>
+               <l>In part we knew Her Worth,</l>
+               <l>In part the Great Creator's Art</l>
+               <l>Saw and admir'd.</l>
+               <l>But He, perhaps, (as needs he muſt) foreſaw,</l>
+               <l>The Idolizing VVorld would run,</l>
+               <l>As oft they'd done before,</l>
+               <l>Forſaking the Exhauſtleſs Store</l>
+               <l>Of Light, to worſhip his collected Rays, the Sun.</l>
+               <l>To worſhip for its ſelf the Image which his Hand did draw,</l>
+               <pb n="3" facs="tcp:48842:3"/>
+               <l> He ſaw our Souls already fir'd,</l>
+               <l>He ſaw, and mercifully ſtopt us there,</l>
+               <l>(At once the Objects of his Anger and his Care)</l>
+               <l>And uſing Kindneſs, tho ſevere,</l>
+               <l>Shew'd us the Gods had not their dwelling here.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>'Twere impious then to murmur at their Fate,</l>
+               <l>Whom of peculiar Love the Gods tranſlate.</l>
+               <l>She trod no common Path to Bliſs,</l>
+               <l>Nor went a pathleſs way to Happineſs;</l>
+               <l>So went that <hi>Hebrew</hi> Sovereign before,</l>
+               <l>Who mildly read the Meſſage o're,</l>
+               <l>That he muſt live no more.</l>
+               <l>Obey'd the Dictates of his <hi>Friend</hi> and <hi>God;</hi>
+               </l>
+               <l>Reſigns his proſperous <hi>Sword</hi> and potent <hi>Rod;</hi>
+               </l>
+               <l>And carry'd up his Body too,</l>
+               <l>As th' utmoſt Offering</l>
+               <l>His ſtretch'd Capacity could bring</l>
+               <l>Or willing Mind could do,</l>
+               <l>Where only borrowing its Eyes,</l>
+               <l>The ſhadow of the Promis'd Land ſurvey'd,</l>
+               <pb n="4" facs="tcp:48842:4"/>
+               <l> And in an Extaſy of Joy he dies,</l>
+               <l>For thoſe bleſt Realms above to be enjoy'd.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>
+                  <hi>Faith</hi> was her <hi>Canaan</hi> and <hi>Mount Piſgah</hi> too,</l>
+               <l>From whence She had the Promis'd Land in view;</l>
+               <l>By which She Heaven in its Type poſſeſt,</l>
+               <l>Drew its Celeſtial Landskip in Her Breaſt;</l>
+               <l>That when the dreaded Summons came,</l>
+               <l>Fill'd in the Fatal Blank with MARY's Name;</l>
+               <l>Submiſſively She bow'd Her Head,</l>
+               <l>And ſmiling heard the Language read.</l>
+               <l>Nor ſtay'd, but up the Sacred <hi>Hill</hi> She ſtept,</l>
+               <l>Whilſt Crowds of grieving Subjects round it wept,</l>
+               <l>(That Her immediate Bounty or Protection kept</l>
+               <l>From an abrupter Death—)</l>
+               <l>Now gain'd the Top, She view'd the Fluid Paſs,</l>
+               <l>Where the divided Streams let <hi>Iſrael</hi> through,</l>
+               <l>Oppoſing all ſuch Paſſage now,</l>
+               <l>Unable to ſuſtain the Ponderous<note n="*" place="margin">
+                     <hi>Her</hi> Body.</note> Maſs,</l>
+               <l>Tho Fairer even than themſelves it was.</l>
+               <pb n="5" facs="tcp:48842:4"/>
+               <l> Nor could the <hi>Egyptian</hi>
+                  <note n="†" place="margin">Exod. 7.1.</note> God of old,</l>
+               <l>Tho the All powerful Rod he ſway'd,</l>
+               <l>Whoſe Motions every Element obey'd,</l>
+               <l>(<note n="*" place="margin">Deut. 34.5.</note> As by his own Prophetick Senſe we 're told)</l>
+               <l>Force his own Body through the thin Expanſe of ſubtler Air.</l>
+               <l>Tho by its Journey up th' Aſcent,</l>
+               <l>It looks as if he meant</l>
+               <l>To waft it thence up on the tow'ring Wings of Pray'r.</l>
+               <l>So did She to the Law of Nature yield;</l>
+               <l>She knew that all things to their proper Center went,</l>
+               <l>She knew it muſt be ſo, and was content.</l>
+               <l>No Struggles ſought to violate</l>
+               <l>That Law that from the firſt Creation took its date,</l>
+               <l>And <hi>Salique</hi> muſt remain to the Concluſive Stroke of Fate.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
